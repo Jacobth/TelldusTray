@@ -1,0 +1,16 @@
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.MainForm.resources
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.Properties.Resources.resources
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.csproj.GenerateResource.Cache
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\TelldusTray.exe.config
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\TelldusTray.exe
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\TelldusTray.pdb
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\MetroFramework.Design.dll
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\MetroFramework.dll
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\RestSharp.dll
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\bin\Debug\RestSharp.xml
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.exe
+C:\Users\jacobth\documents\visual studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.pdb
+C:\Users\jacobth\Documents\Visual Studio 2017\Projects\TelldusTray\TelldusTray\obj\Debug\TelldusTray.csprojResolveAssemblyReference.cache

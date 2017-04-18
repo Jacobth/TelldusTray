@@ -1,0 +1,4 @@
+B Kök Syd on,1463370,turnon
+B Hall Övre Öst on,1463413,turnon
+B Källare Tvättstuga off,1463438,turnoff
+B Sovrum Tak Spot off,1463460,turnoff
